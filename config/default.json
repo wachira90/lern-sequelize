@@ -1,0 +1,8 @@
+{
+    "_HOST" : "192.168.6.150",
+    "_USER" : "postgres",
+    "_PASS" : "example",
+    "_DB" : "weightdb",
+    "_PORT" : 5432,
+    "_DBTYPE" : "postgres"
+}
