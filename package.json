@@ -1,0 +1,12 @@
+{
+  "name": "createschema",
+  "version": "1.0.0",
+  "main": "createschema.js",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^3.3.6",
+    "pg": "^8.6.0",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^6.6.2"
+  }
+}
